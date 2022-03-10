@@ -1,5 +1,0 @@
-module samyuktha_flashadc(c,a,b);
-input a,b;
-output c;
-xor (c,a,b);
-endmodule
